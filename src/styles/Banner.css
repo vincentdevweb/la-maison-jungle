@@ -9,12 +9,11 @@
 	align-items: center;
 }
 
-.lmj-logo {
-    height: 45px;
-	width: 45px;
-}
-
-
 .lmj-title {
 	padding-left: 32px;
+}
+
+.lmj-logo {
+	height: 45px;
+	width: 45px;
 }
